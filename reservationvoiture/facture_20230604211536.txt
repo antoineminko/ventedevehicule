@@ -1,0 +1,6 @@
+FACTURE DE VENTE
+
+Marque: mercede
+Modèle: benz
+Année: 2019
+Prix: 10000000
